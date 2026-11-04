@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Yuehong
+![Yuehong](assets/images/me.jpg)
 
 I am a student in the [MA Digital Text Analysis](https://www.uantwerpen.be/en/study/programmes/all-programmes/digital-text-analysis/) at the University of Antwerp. Before that, I studied German language and literature in China.
 
